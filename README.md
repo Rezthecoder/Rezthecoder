@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I am Rez lama</h2>
-<h2 align="left">Full Stack Developer./h2>
+<h2 align="left">Full Stack Developer.</h2>
 
 ###
 
