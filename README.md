@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Rez lama</h2>
+<h2 align="left">Hi! I am Rez lama</h2>
 <h2 align="left">Naan Curry Developer</h2>
 
 ###
@@ -52,9 +52,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rezthecoder/count.svg?"  />
-</div>
 
 ###
